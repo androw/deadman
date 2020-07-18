@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dead Man Switch</string>
+    <string name="text_time">Duration (secs)</string>
+    <string name="text_phone">Phone number</string>
+    <string name="text_button">Keep pushing</string>
+    <string name="set_message">Edit Message</string>
+    <string name="location">Enable location</string>
+    <string name="default_message">Please help me, I\'m in an emergency.</string>
+    <string name="not_licensed">It seems you have not bought the application.</string>
+    <string name="fail_licensed">Not able to verify licensing.</string>
+    <string name="invalid_time">The entered duration is not valid.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

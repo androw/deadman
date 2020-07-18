@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deadman.iml" filepath="$PROJECT_DIR$/deadman.iml" />
+      <module fileurl="file:///usr/local/Cellar/android-sdk/22.3/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="/usr/local/Cellar/android-sdk/22.3/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file:///usr/local/Cellar/android-sdk/22.3/extras/google/play_licensing/library/library.iml" filepath="/usr/local/Cellar/android-sdk/22.3/extras/google/play_licensing/library/library.iml" />
+    </modules>
+  </component>
+</project>
+
